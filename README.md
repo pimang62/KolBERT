@@ -1,4 +1,4 @@
-# A308 Retrieval Trainer (ColBERT)
+# Retrieval Trainer (ColBERT)
 
 Retrieval 모델 훈련을 위한 Repo 
 
